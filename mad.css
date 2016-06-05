@@ -1,0 +1,31 @@
+/* mAdchAt ! A tes souhaits !  */
+html {
+  background: #000;
+}
+body {
+  color: #ACA0A0;
+  margin: 0 auto;
+  width : 440px;
+  vertical-align: middle;
+}
+a {
+  color: #090;
+}
+a:hover {
+  background: #0f0;
+  color: #111;
+  text-decoration: none;
+}
+span.miaou {
+  color: #5E6F8E;
+  font-size: 10px;
+}
+section strong {
+  color: #EEE;
+}
+
+.gang {
+  margin-top: 50vh; 
+  transform: translateY(-50%); 
+}
+
